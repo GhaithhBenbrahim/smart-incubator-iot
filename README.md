@@ -108,7 +108,13 @@ The incubator was fully assembled, programmed, and tested. Below are key outputs
 ---
 
 ### 🐣 **Egg Hatching Video**  
-[![Egg Hatching Timelapse](images/video_thumbnail.jpg)](https://drive.google.com/file/d/1eFvm8mO5UFm-YTxB7p_zy4LO_NavvHMh/view?usp=drive_link)  
+<div align="center">
+  <a href="https://youtu.be/8fVwQ87gc_k" target="_blank">
+    <img src="images/video_thumbnail.jpg" alt="Egg Hatching Timelapse" width="400" height="300" style="border: 1px solid #ddd; border-radius: 4px;">
+  </a>
+  <br>
+  <a href="https://youtu.be/8fVwQ87gc_k" target="_blank">Watch Full Video</a>
+</div>
 
 ---
 
@@ -119,7 +125,7 @@ The incubator was fully assembled, programmed, and tested. Below are key outputs
 ---
 
 ### 📬 **Email Alert Example**  
-<img src="images/email_alert.png" alt="Email Alert" width="500">  
+<img src="images/email_alert.jpg" alt="Email Alert" width="500">  
 *Automated alert triggered by abnormal conditions.* 
 
 ###📎 **Complete Report Available**: All implementation steps, hardware schematics, software design, FreeRTOS task analysis, and cloud integration are fully documented in `Hardware_Software.pdf`.
