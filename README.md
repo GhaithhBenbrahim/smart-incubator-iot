@@ -108,8 +108,13 @@ The incubator was fully assembled, programmed, and tested. Below are key outputs
 ---
 
 ### 🐣 **Egg Hatching Video**  
-[![Egg Hatching Timelapse](images/video_thumbnail.jpg)](https://youtu.be/8fVwQ87gc_k)
-*Click the image to watch on YouTube*
+<div align="center">
+  <a href="https://youtu.be/8fVwQ87gc_k" target="_blank">
+    <img src="images/video_thumbnail.jpg" alt="Egg Hatching Timelapse" width="400" style="border: 1px solid #ddd; border-radius: 4px;">
+  </a>
+  <br>
+  <a href="https://youtu.be/8fVwQ87gc_k" target="_blank">Watch Full Video</a>
+</div>
 
 ---
 
