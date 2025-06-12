@@ -95,10 +95,33 @@ Implemented using STM32CubeIDE + FreeRTOS.
 
 The incubator was fully assembled, programmed, and tested. Below are key outputs from the project:
 
-* ✅ **Circuit Photo**: Full electrical wiring connecting STM32, relays, LCD, fan, and ESP32.
-* 🐣 **Egg Hatching Video**: Real incubation process captured with hatch success.
-* 📈 **Grafana Dashboard Screenshot**: Real-time temperature, humidity graphs, and uptime display.
-* 📬 **Email Alert Screenshot**: Grafana email triggered by high humidity/temperature.
+### 🛠️ **Functional Prototype**  
+<img src="images/prototype_photo.jpg" alt="Incubator Prototype" width="500">  
+*Physical prototype showing the assembled incubator with electronics, sensors, and egg tray.*  
+
+---
+
+### ✅ **Circuit Wiring**  
+<img src="images/circuit_photo.jpg" alt="Circuit Wiring" width="500">  
+*Full electrical connections: STM32, relays, LCD, fan, and ESP32.*  
+
+---
+
+### 🐣 **Egg Hatching Video**  
+[![Watch the video](images/video_thumbnail.jpg)](https://youtu.be/your-video-id)  
+*Real incubation process with successful hatch. [Click to watch ↗️](https://youtu.be/your-video-id)*  
+
+---
+
+### 📊 **Grafana Dashboard**  
+<img src="images/grafana_screenshot.png" alt="Grafana Dashboard" width="500">  
+*Live monitoring of temperature, humidity, and system uptime.*  
+
+---
+
+### 📬 **Email Alert Example**  
+<img src="images/email_alert.png" alt="Email Alert" width="500">  
+*Automated alert triggered by abnormal conditions.* 
 
 > 📎 **Complete Report Available**: All implementation steps, hardware schematics, software design, FreeRTOS task analysis, and cloud integration are fully documented in `Hardware_Software.pdf`.
 
