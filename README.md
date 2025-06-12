@@ -2,7 +2,7 @@
 
 ![STM32](https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-v10.4.3-00979D?logo=freertos)
-![Espressif](https://img.shields.io/badge/Espressif-ESP32--WROOM--32D-E7352C?logo=espressif)
+![Espressif](https://img.shields.io/badge/Espressif-ESP32-E7352C?logo=espressif)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-2.7-22ADF6?logo=influxdb)
 ![Grafana](https://img.shields.io/badge/Grafana-10.3-F46800?logo=grafana)
 ![Board](https://img.shields.io/badge/NUCLEO-F401RE-0082B4?logo=stmicroelectronics)
