@@ -6,6 +6,7 @@
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-2.7-22ADF6?logo=influxdb)
 ![Grafana](https://img.shields.io/badge/Grafana-10.3-F46800?logo=grafana)
 ![Board](https://img.shields.io/badge/NUCLEO-F401RE-0082B4?logo=stmicroelectronics)
+![Status](https://img.shields.io/badge/Status-Completed-green)
 
 A FreeRTOS-based smart incubator system built with STM32 (NUCLEO-F401RE), integrated with IoT functionality via ESP32. It enables real-time environmental control, cloud monitoring, and data visualization using InfluxDB and Grafana.
 
