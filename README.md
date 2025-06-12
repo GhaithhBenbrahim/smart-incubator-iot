@@ -123,8 +123,7 @@ The incubator was fully assembled, programmed, and tested. Below are key outputs
 <img src="images/email_alert.png" alt="Email Alert" width="500">  
 *Automated alert triggered by abnormal conditions.* 
 
-
-> 📎 **Complete Report Available**: All implementation steps, hardware schematics, software design, FreeRTOS task analysis, and cloud integration are fully documented in `Hardware_Software.pdf`.
+###📎 **Complete Report Available**: All implementation steps, hardware schematics, software design, FreeRTOS task analysis, and cloud integration are fully documented in `Hardware_Software.pdf`.
 
 ---
 
