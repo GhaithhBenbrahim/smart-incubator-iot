@@ -130,7 +130,7 @@ The incubator was fully assembled, programmed, and tested. Below are key outputs
 
 ---
 
-###📎 **Complete Report Available**: All implementation steps, hardware schematics, software design, FreeRTOS task analysis, and cloud integration are fully documented in `Incubator_pdf.pdf`.
+###📎 **Complete Report Available**: All implementation steps, hardware schematics, software design, FreeRTOS task analysis, and cloud integration are fully documented in `Incubator_report.pdf`.
 
 ---
 
